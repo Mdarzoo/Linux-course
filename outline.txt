@@ -1,0 +1,32 @@
+The Linux programming interface A linux and unix system programming handbook by michael kerisk
+
+1. Introduction
+2. File IO
+3. Process
+4. Memory Allocation
+5. users and Groups 
+6. Time function 
+7. System Limits 
+8. System and process information 
+9. Directories an dLinks 
+11. Monitoring File events 
+12. Signal Handlers
+13. Time and sleeping 
+14. process creation and Termination
+15. Monitoring child process
+16. program execution 
+17. Thread programming 
+18. Daemons 
+19. shared Libraries
+20. Pipes
+21. Fifo
+22. Messafe Queues
+23. Semaphores
+24. shared Memory 
+25. File looking 
+26. Sockets 
+27. Terminal and psuedo Terminhals
+28. Teaching system call
+29. Call to action to buy the book from the link below 
+
+
